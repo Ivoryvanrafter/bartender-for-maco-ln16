@@ -1,4 +1,4 @@
-
+Enhance Bartender for macOS with new Bartender for macOS Service | custom-actions + snapshot-rollback, the #1 service. Includes custom-actions and snapshot-rollback for a smoother
 
 
 
